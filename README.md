@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shatakshi aka @shazam-25 
 - 👀 I’m interested in data pre-processing techniques, building data pipelines and ML models
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently enhancing ML algorithms using Python
 - 💞️ I’m looking to collaborate on ML and Deep Learning projects
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
